@@ -1,0 +1,27 @@
+{
+  "name": "homepage-top-20",
+  "version": "1.0.0",
+  "description": "home page",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Jajecznik",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.0",
+    "postcss": "^8.4.47",
+    "style-loader": "^4.0.0",
+    "tailwindcss": "^3.4.13",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "postcss-loader": "^8.1.1",
+    "tailwind-clip-path": "^1.0.0"
+  }
+}
